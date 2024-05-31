@@ -5,8 +5,8 @@
 - 📫 How to reach me ... 
 
     Linkedin - www.linkedin.com/in/anant-kr-sharma-341793273
-    Twitter - x.com/Anant_K_Sharma
-    GMail - anantkrsharma.work@gmail.com
+    Twitter - https://x.com/Anant_K_Sharma
+    Mail - anantkrsharma.work@gmail.com
 <!---
 AnantKrSharma/AnantKrSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
