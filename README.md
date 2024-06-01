@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnantKrSharma
+- 👋 Hi, I’m Anant Kr Sharma
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently building projects on MERN-Stack.
 - 💞️ I’m looking to collaborate on Full-Stack roles, and projects.
