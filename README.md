@@ -1,7 +1,7 @@
-- 👋 Hi, I’m _**Anant Kumar Sharma**_.
-- 👀 I’m interested in Web-Development.
-- 🌱 I’m currently building projects on MERN-Stack.
-- 💞️ I’m looking to collaborate on Full-Stack roles, and projects.
+### - 👋 Hi, I’m _**Anant Kumar Sharma**_.
+### - 👀 I’m interested in Web-Development.
+### - 🌱 I’m currently building projects on MERN-Stack.
+### - 💞️ I’m looking to collaborate on Full-Stack roles, and projects.
 
 #### 📫 How to reach me :
  - Linkedin - www.linkedin.com/in/anant-kr-sharma-341793273
