@@ -1,4 +1,4 @@
-## 👋 Hi, I’m **_Anant Kumar Sharma_**
+## 👨‍💻 Hi, I’m **_Anant Kumar Sharma_**
 ### > 👀 I’m a Web-Developer.
 ### > 🌱 I’m currently working on MERN-Stack.
 ### > 🤝 I’m looking to collaborate on Full-Stack roles, and projects.
