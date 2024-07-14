@@ -27,6 +27,7 @@
         }
     </style>
 </head>
+    
 <body>
     <h1>👋 Hi, I’m <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273" target="_blank">Anant Kumar Sharma</a></h1>
     <h3>👨‍💻 I’m a Web-Developer.</h3>
