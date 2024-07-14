@@ -2,7 +2,7 @@
 <br></br>
 <h3>👨‍💻 I’m a Web-Developer.</h3>
 <h3>🌱 I’m currently working on MERN-Stack.</h3>
-<h3>🤝 I’m looking to collaborate on Full-Stack roles and projects.</h3>
+<h3>🤝 I’m looking forward to collaborate on Full-Stack roles and projects.</h3>
 <br></br>
 
 # 📊 Languages and Technologies:
