@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hi, I’m <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273" target="_blank">Anant Kumar Sharma</a></h1>
 <br>
-<p align="center">
-<h3>👨‍💻 I’m a Web-Developer.</h3>
-<h3>🌱 I’m currently working on MERN-Stack.</h3>
-<h3>🤝 I’m looking forward to collaborate on Full-Stack roles and projects.</h3>
-</p>
-<br>
+
+<p align="center">👨‍💻 I’m a Web-Developer.</p>
+<p align="center">🌱 I’m currently working on MERN-Stack.</p>
+<p align="center">🤝 I’m looking forward to collaborate on Full-Stack roles and projects.</p>
+
 <br>
 <h2 align="center"> 📊 Languages and Technologies: </h2>
 <br>
@@ -28,7 +27,6 @@
   <img src="https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white&style=for-the-badge" alt="Zustand" />
   <img src="https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=for-the-badge" alt="Recoil"/>
 </p>
-<br>
 <br>
 <h2 align="center"> 📬 How to reach me: </h2>
 <br>
