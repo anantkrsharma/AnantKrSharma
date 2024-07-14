@@ -5,7 +5,7 @@
 <h3>🤝 I’m looking forward to collaborate on Full-Stack roles and projects.</h3>
 <br>
 
-# 📊 Languages and Technologies:
+## 📊 Languages and Technologies:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO" />
 </p>
 
-# 📫 How to reach me:
+## 📫 How to reach me:
 
 <p>
   <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a><br>
