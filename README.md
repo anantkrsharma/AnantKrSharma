@@ -4,7 +4,10 @@
 <h3>🌱 I’m currently working on MERN-Stack.</h3>
 <h3>🤝 I’m looking to collaborate on Full-Stack roles and projects.</h3>
 
-## 📊 Languages and Technologies:
+<br></br>
+<br></br>
+
+# 📊 Languages and Technologies:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
