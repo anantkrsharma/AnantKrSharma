@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273" target="_blank">Anant Kumar Sharma</a></h1>
 
-<h2>👨‍💻 I’m a Web-Developer.</h2>
-<h2>🌱 I’m currently working on MERN-Stack.</h2>
-<h2>🤝 I’m looking forward to collaborate on Full-Stack roles and projects.</h2>
+<h4>👨‍💻 I’m a Web-Developer.</h4>
+<h4>🌱 I’m currently working on MERN-Stack.</h4>
+<h4>🤝 I’m looking forward to collaborate on Full-Stack roles and projects.</h4>
 
 <br>
 <h2 align="center"> 📊 Languages and Technologies: </h2>
