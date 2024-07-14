@@ -1,11 +1,14 @@
 <h1 align="center">👋 Hi, I’m <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273" target="_blank">Anant Kumar Sharma</a></h1>
 <br>
+<p align="center">
 <h3>👨‍💻 I’m a Web-Developer.</h3>
 <h3>🌱 I’m currently working on MERN-Stack.</h3>
 <h3>🤝 I’m looking forward to collaborate on Full-Stack roles and projects.</h3>
+</p>
 <br>
-
+<br>
 <h2 align="center"> 📊 Languages and Technologies: </h2>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/>
@@ -26,9 +29,9 @@
   <img src="https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=for-the-badge" alt="Recoil"/>
 </p>
 <br>
-
+<br>
 <h2 align="center"> 📬 How to reach me: </h2>
-
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://x.com/Anant_K_Sharma"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" /></a>
