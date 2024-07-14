@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="Prisma" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=for-the-badge" alt="Recoil" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white&style=for-the-badge" alt="Zustand" />
-
+  ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white&style=for-the-badge)
 
 </p>
 <br>
