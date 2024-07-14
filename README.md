@@ -16,10 +16,10 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="Prisma" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=for-the-badge" alt="Recoil" style="margin-right: 10px;" />
   <img src="https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=for-the-badge" alt="Recoil" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="Prisma" style="margin-right: 10px;" />
 </p>
 </p>
 <br>
