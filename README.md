@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi, I’m <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273" target="_blank">Anant Kumar Sharma</a></h1>
+<h1>👋 Hi, I’m <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273" target="_blank">Anant Kumar Sharma</a></h1>
 
 <h4>👨‍💻 I’m a Web-Developer.</h4>
 <h4>🌱 I’m currently working on MERN-Stack.</h4>
 <h4>🤝 I’m looking forward to collaborate on Full-Stack roles and projects.</h4>
 
 <br>
-<h2 align="center"> 📊 Languages and Technologies: </h2>
+<h2> 📊 Languages and Technologies: </h2>
 <br>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
@@ -27,15 +27,15 @@
   <img src="https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO" />
 </p>
 <br>
-<h2 align="center"> 📬 How to reach me: </h2>
+<h2> 📬 How to reach me: </h2>
 <br>
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://x.com/Anant_K_Sharma"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" /></a>
   <a href="mailto:anantkrsharma.work@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
 </p>
 
-<h2 align='center'>📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnantKrSharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
