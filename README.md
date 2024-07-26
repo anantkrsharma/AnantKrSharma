@@ -23,11 +23,11 @@
   <img src="https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white&style=for-the-badge" alt="Zustand" />
   <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=for-the-badge" alt="Recoil"/>
+  <img src="https://img.shields.io/badge/-JWT-408080?logo=jsonwebtokens&logoColor=white&style=for-the-badge" alt="JWT" />
   <img src="https://img.shields.io/badge/-Next.js-010101?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
   <br>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/-JWT-408080?logo=jsonwebtokens&logoColor=white&style=for-the-badge" alt="JWT" />
 </p>
 <br>
 <h2> 📬 How to reach me: </h2>
