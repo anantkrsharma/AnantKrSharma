@@ -1,7 +1,7 @@
-<h1>About Me:</h1>
+<h1>✨ About Me:</h1>
 
 <h4>👨‍💻 I’m a Web-Developer.</h4>
-<h4>🌱 I’m currently working on MERN-Stack.</h4>
+<h4>🌱 I’m currently working on MERN-Stack and Next.js with Typescript.</h4>
 <h4>🤝 I’m looking forward to collaborate on Full-Stack roles and projects.</h4>
 
 <br>
