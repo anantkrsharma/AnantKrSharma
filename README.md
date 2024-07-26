@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273" target="_blank">Anant Kumar Sharma</a></h1>
+<h1>About Me:</h1>
 
 <h4>👨‍💻 I’m a Web-Developer.</h4>
 <h4>🌱 I’m currently working on MERN-Stack.</h4>
