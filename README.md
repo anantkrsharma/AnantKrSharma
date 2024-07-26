@@ -27,6 +27,7 @@
   <br>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/-JWT-408080?logo=jsonwebtokens&logoColor=white&style=for-the-badge" alt="JWT" />
 </p>
 <br>
 <h2> 📬 How to reach me: </h2>
@@ -39,6 +40,7 @@
 
 <h2>📊 GitHub Stats</h2>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnantKrSharma&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnantKrSharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
