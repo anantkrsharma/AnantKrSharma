@@ -40,7 +40,9 @@
 
 <h2>📊 GitHub Stats</h2>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnantKrSharma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnantKrSharma&theme=dark&hide_border=false)
+<br>
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnantKrSharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
