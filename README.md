@@ -1,4 +1,4 @@
-<h1>✨ About Me:</h1>
+<h1 text-align='center'>✨ About Me:</h1>
 
 <h4>👨‍💻 I’m a Full-Stack Web-Developer.</h4>
 <h4>🌱 I’m currently working on MERN-Stack and Next.js with Typescript.</h4>
