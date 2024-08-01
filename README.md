@@ -1,7 +1,7 @@
 <h1 align='center'>✨ About Me:</h1>
 
 <h4 align='center'>👨‍💻 I’m a Full-Stack Web-Developer.</h4>
-<h4 align='center'>🌱 I’m currently working on MERN-Stack and Next.js with Typescript.</h4>
+<h4 align='center'>🌱 I’m currently working on MERN-Stack and Next.js with TypeScript.</h4>
 <h4 align='center'>🤝 I’m looking forward to collaborate on Full-Stack roles and projects.</h4>
 
 <br>
@@ -39,20 +39,20 @@
 </p>
 <br>
 <h2 align='center'>📊 GitHub Stats</h2>
-<p align='center'>
+<div align='center'>
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnantKrSharma&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnantKrSharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
+</div>
 
-<h2 align='center'>🔝 Top Contributed Repo <h2 />
+<h2 align='center'>🔝 Top Contributed Repo</h2>
 
-<p align='center'>
+<div align='center'>
   
 ![](https://github-contributor-stats.vercel.app/api?username=AnantKrSharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=AnantKrSharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</p>
+</div>
