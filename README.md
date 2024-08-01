@@ -1,4 +1,4 @@
-<h1 text-align='center'>✨ About Me:</h1>
+<h1 >✨ About Me:</h1>
 
 <h4>👨‍💻 I’m a Full-Stack Web-Developer.</h4>
 <h4>🌱 I’m currently working on MERN-Stack and Next.js with Typescript.</h4>
@@ -7,7 +7,7 @@
 <br>
 <h2> 📊 Languages and Technologies: </h2>
 <br>
-<p>
+<p align='justify'>
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
