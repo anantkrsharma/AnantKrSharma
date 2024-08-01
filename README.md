@@ -28,6 +28,7 @@
   <br>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/-Prisma-00008B?logo=prisma&logoColor=white&style=for-the-badge" alt="Prisma" />
 </p>
 <br>
 <h2> 📬 How to reach me: </h2>
