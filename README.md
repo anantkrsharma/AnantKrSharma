@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=for-the-badge" alt="Recoil"/>
   <img src="https://img.shields.io/badge/-JWT-408080?logo=jsonwebtokens&logoColor=white&style=for-the-badge" alt="JWT" />
-  <img src="https://img.shields.io/badge/-zod-D3D3D3?logo=zod&logoColor=blue&style=for-the-badge" alt="Zod" />
+  <img src="https://img.shields.io/badge/-zod-FFFFFF?logo=zod&logoColor=blue&style=for-the-badge" alt="Zod" />
   <img src="https://img.shields.io/badge/-Next.js-010101?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
   <br>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
