@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-Hono-FF8C00?logo=hono&logoColor=white&style=for-the-badge" alt="Hono" />
 </p>
 <br>
-<h1 align='center'> 📬 How to reach me: </h1>
+<h1 align='center'> 📬 Reach me: </h1>
 <p align='center'>
   <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://x.com/Anant_K_Sharma"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" /></a>
