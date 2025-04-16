@@ -41,7 +41,7 @@
   <a href="mailto:anantkrsharma.work@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
 </p>
 <br>
-<h1 align='center'>GitHub Stats</h1>
+<h1 align='center'>GitHub Stats:</h1>
 <div align='center'>
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnantKrSharma&theme=dark&hide_border=false)
@@ -52,7 +52,7 @@
 
 <br>
 
-<h1 align='center'>Top Contributed Repo</h1>
+<h1 align='center'>Top Contributed Repo:</h1>
 
 <div align='center'>
   
