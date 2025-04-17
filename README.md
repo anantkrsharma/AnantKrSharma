@@ -1,8 +1,8 @@
 <h1 align='center'>About Me:</h1>
 
-<h4 align='center'> > I’m a Full-Stack Web-Developer.</h4>
-<h4 align='center'> > I’m currently working on MERN-Stack and Next.js with TypeScript.</h4>
-<h4 align='center'> > I’m looking forward to collaborate on Full-Stack roles and projects.</h4>
+<h4 align='center'> • I’m a Full-Stack Web-Developer.</h4>
+<h4 align='center'> • I’m currently working on MERN-Stack and Next.js with TypeScript.</h4>
+<h4 align='center'> • I’m looking forward to collaborate on Full-Stack roles and projects.</h4>
 
 <br>
 <h1 align='center'> Languages and Technologies: </h1>
