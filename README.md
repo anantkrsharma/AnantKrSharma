@@ -32,6 +32,11 @@
   <img src="https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/-CloudFlare-FFFFFF?logo=cloudflare&logoColor=orange&style=for-the-badge" alt="CloudFlare" />
   <img src="https://img.shields.io/badge/-Hono-FF8C00?logo=hono&logoColor=white&style=for-the-badge" alt="Hono" />
+  <br>
+  <img src="https://img.shields.io/badge/-Nestjs-FFFFFF?logo=nestjs&logoColor=red&style=for-the-badge" alt="Nestjs" />
+  <img src="https://img.shields.io/badge/-passportjs-A9A9A9?logo=passportjs&logoColor=green&style=for-the-badge" alt="Passportjs" />
+  <img src="https://img.shields.io/badge/-clerk-D3D3D3?logo=clerk&logoColor=purple&style=for-the-badge" alt="clerk" />
+
 </p>
 <br>
 <h1 align='center'> Reach me: </h1>
