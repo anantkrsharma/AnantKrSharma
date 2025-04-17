@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/-passport.js-A9A9A9?logo=passport&logoColor=green&style=for-the-badge" alt="Passportjs" />
   <img src="https://img.shields.io/badge/-clerk-D3D3D3?logo=clerk&logoColor=purple&style=for-the-badge" alt="clerk" />
   <img src="https://img.shields.io/badge/-inngest-800080?logo=inngest&logoColor=white&style=for-the-badge" alt="inngest" />
-  <img src="https://img.shields.io/badge/-shadcn-000000?logo=shadcn&logoColor=white&style=for-the-badge" alt="shadcn" />
+  <img src="https://img.shields.io/badge/-shadcnui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" alt="shadcnui" />
 
 </p>
 <br>
