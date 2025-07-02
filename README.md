@@ -1,12 +1,11 @@
-<h1 align='center'>About Me:</h1>
+<h1 align='center'>About Me</h1>
 
-<h4 align='center'> • I’m a Full-Stack Web-Developer.</h4>
-<h4 align='center'> • I’m currently working on MERN-Stack and Next.js with TypeScript.</h4>
-<h4 align='center'> • I’m looking forward to collaborate on Full-Stack roles and projects.</h4>
+<h5 align='center'> • I’m a Full-Stack Web-Developer.</h5>
+<h5 align='center'> • I’m currently working on MERN-Stack and Next.js with TypeScript.</h5>
+<h5 align='center'> • I’m looking forward to collaborate on Full-Stack roles and projects.</h5>
 
 <br>
-<h1 align='center'> Languages and Technologies: </h1>
-<br>
+<h1 align='center'> Languages and Technologies </h1>
 <p align='center'>
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/>
@@ -41,14 +40,14 @@
 
 </p>
 <br>
-<h1 align='center'> Reach me: </h1>
+<h1 align='center'> Reach me </h1>
 <p align='center'>
   <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://x.com/anantXdev"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" /></a>
   <a href="mailto:anantkrsharma.work@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
 </p>
 <br>
-<h1 align='center'>GitHub Stats:</h1>
+<h1 align='center'>GitHub Stats</h1>
 <div align='center'>
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -65,14 +64,8 @@
 
 <br>
 
-<h1 align='center'>Top Contributed Repo:</h1>
+<h1 align='center'>Top Contributed Repos</h1>
 
 <div align='center'>
   
 ![](https://github-contributor-stats.vercel.app/api?username=anantkrsharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-<div align="center">
-  <img alt="Visitor Stats" 
-  src="https://widgetbite.com/stats/anantkrsharma"/>  
-</div>
