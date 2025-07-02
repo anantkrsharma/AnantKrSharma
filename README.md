@@ -50,10 +50,16 @@
 <br>
 <h1 align='center'>GitHub Stats:</h1>
 <div align='center'>
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=anantkrsharma&theme=dark&hide_border=false)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats-eight.vercel.app?user=anantkrsharma&theme=dark" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=anantkrsharma&theme=dark" />
+</picture>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anantkrsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+<br/>
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anantkrsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -63,8 +69,10 @@
 
 <div align='center'>
   
-![](https://github-contributor-stats.vercel.app/api?username=AnantKrSharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=anantkrsharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=AnantKrSharma&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
+<div align="center">
+  <img alt="Visitor Stats" 
+  src="https://widgetbite.com/stats/anantkrsharma"/>  
 </div>
