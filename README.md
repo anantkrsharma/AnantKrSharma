@@ -1,7 +1,8 @@
 <h1 align='center'>About Me</h1>
 
 <h4 align='center'> • I’m a Software Engineer.</h4>
-<h4 align='center'> • Currently working on MERN-Stack and Next.js with TypeScript.</h4>
+<h4 align='center'> • Currently working on MERN-Stack, Next.js with TypeScript.</h4>
+<h4 align='center'> • Currently learning blockchain, Web3, and Rust.</h4>
 <h4 align='center'> • Looking forward to collaborate on real world roles and projects.</h4>
 
 <br>
