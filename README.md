@@ -73,7 +73,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=anantkrsharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
-
-<div>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anantkrsharma&theme=dark" alt="anantkrsharma" /></a> </p>
-</div>
